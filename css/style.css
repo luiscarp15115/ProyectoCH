@@ -1,6 +1,7 @@
 *{
     font-family: Helvetica, Arial, sans-serif;
 }
+
 body{
     background: rgb(253,253,253);
     background: linear-gradient(90deg, rgba(253,253,253,1) 0%, rgba(210,208,208,1) 50%, rgba(233,233,233,1) 100%);
@@ -60,6 +61,7 @@ body{
     align-items: center;
 }
 
+/*Animacion*/
 .nav__links:hover{
     background-color:#c2c1c1 ;
     border: solid 1px black;
